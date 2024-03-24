@@ -13,3 +13,5 @@ int main()
     int ans = func();
     printf("%d", ans);
 }
+
+//Without arguments and with the return value.
