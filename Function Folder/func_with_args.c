@@ -9,3 +9,4 @@ int main()
 {
     func(2, 3);
 }
+//With arguments and without a return value.
